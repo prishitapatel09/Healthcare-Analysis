@@ -6,4 +6,6 @@ This project involves a comprehensive Power BI dashboard created for healthcare 
 -	Leveraged Power BI's data integration and transformation capabilities to consolidate complex patient data from multiple sources, creating interactive visualizations that improved stakeholder insights and decision-making.
 -	Automated monthly waitlist reporting, saving 20+ hours per cycle and enabling early detection of trends and bottlenecks.
 
+![Ananlysis Page](https://github.com/user-attachments/assets/0cbb0b07-8f68-4060-a243-571f2bba1b64)
+
 
